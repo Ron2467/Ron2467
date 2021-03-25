@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ron2467
-- 👀 I’m interested in SQL data solutions
-- 🌱 I’m currently learning Azure Synapse
-- 💞️ I’m looking to collaborate on data scientists
+- 👋 Hi, I’m @Ron2467.
+- 👀 I’m interested in SQL data solutions.
+- 🌱 I’m currently learning Azure Synapse.
+- 💞️ I’m looking to collaborate on data scientists.
 - 📫 How to reach me ...
 
 <!---
